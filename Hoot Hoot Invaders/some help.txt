@@ -1,0 +1,5 @@
+https://www.pygame.org/docs/ref/key.html -- > keystrokes in pygame
+flaticon.com --> for icons.
+https://www.pygame.org/docs/ref/music.html#pygame.mixer.music.set_volume --> pygame music.
+https://freesound.org/browse/ --> free sounds to use in game.
+https://www.dafont.com/new.php --> free font.
